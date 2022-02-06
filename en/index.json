@@ -1,4 +1,5 @@
 {
   "PING_NAME": "Ping Statistics",
-  "PING_DESCRIPTION": "Checks the ping of the bot."
+  "PING_DESCRIPTION": "Checks the ping of the bot.",
+  "MANAGEMENT_NAME": "Management"
 }
