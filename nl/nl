@@ -1,4 +1,4 @@
 {
-  "PING_NAME": "Ping Statistics",
-  "PING_DESCRIPTION": "Checks the ping of the bot."
+  "PING_NAME": "Ping-statistieken",
+  "PING_DESCRIPTION": "Controleert de ping van de bot."
 }
