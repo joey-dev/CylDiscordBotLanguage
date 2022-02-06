@@ -1,0 +1,19 @@
+{
+  "name": "@cylbot/cyldiscordbotlanguage",
+  "version": "1.0.0",
+  "description": "languages for the cyl discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joey-dev/CylDiscordBotLanguage.git"
+  },
+  "author": "joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joey-dev/CylDiscordBotLanguage/issues"
+  },
+  "homepage": "https://github.com/joey-dev/CylDiscordBotLanguage#readme"
+}
