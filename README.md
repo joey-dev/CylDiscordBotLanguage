@@ -1,1 +1,0 @@
-languages for the cyl discord bot
