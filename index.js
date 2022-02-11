@@ -1,5 +1,5 @@
 const languages = {};
-language.en = require('./en/index.json');
-language.nl = require('./nl/index.json');
+languages.enUS = require('./en-US/index.json');
+languages.nlNL = require('./nl-NL/index.json');
 
 module.exports = languages;
