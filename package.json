@@ -1,6 +1,6 @@
 {
   "name": "@cylbot/cyldiscordbotlanguage",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "languages for the cyl discord bot",
   "main": "index.js",
   "scripts": {
