@@ -1,4 +1,4 @@
-export default interface ILanguages {
+export interface ILanguages {
     enUS: Language;
     nlNL: Language;
 }
@@ -44,3 +44,11 @@ interface Language {
     SETTINGS_EPHEMERAL_DESCRIPTION?: string
 
 }
+import enUS from './en-US/index.json';
+import nlNL from './nl-NL/index.json';
+
+export const languages: ILanguages = {
+    enUS: enUS,
+    nlNL: nlNL,
+};
+
