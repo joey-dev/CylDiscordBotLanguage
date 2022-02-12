@@ -8,7 +8,7 @@
   "WHEN_FINISHED_BOT_SETUP": "When finished with 'Setup bot', click on finish:",
   "FINISH": "finish",
   "OTHER": "other",
-  "Utility": "utility",
+  "UTILITY": "utility",
 
   "PING": "ping",
   "PING_TITLE": "Ping Statistics",

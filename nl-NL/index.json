@@ -8,7 +8,7 @@
   "WHEN_FINISHED_BOT_SETUP": "Wanneer u klaar bent met 'set-up bot', klikt u op voltooien:",
   "FINISH": "afmaken",
   "OTHER": "ander",
-  "Utility": "utility",
+  "UTILITY": "utility",
   "PING": "ping",
   "PING_TITLE": "Ping-statistieken",
   "PING_FIELD_NAME": "Reactietijd",
