@@ -6,13 +6,13 @@ export const languages: ILanguages = {
     nlNL: nlNL,
 };
 
-export const getItemTranslate = (languageTranslationList: ILanguages, languageName: keyof ILanguages, translatedTextName: keyof ILanguage): string => {
-    const translationsList: ILanguage = languageTranslationList[languageName];
+export const getItemTranslate = (languageName: keyof ILanguages, translatedTextName: keyof ILanguage): string => {
+    const translationsList: ILanguage = languages[languageName];
     if (translationsList.hasOwnProperty(translatedTextName)) {
         return translationsList[translatedTextName] as string;
     }
 
-    return languageTranslationList['enUS'][translatedTextName] as string;
+    return languages['enUS'][translatedTextName] as string;
 };
 
 export interface ILanguages {
