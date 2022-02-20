@@ -28,6 +28,9 @@
   "SETTINGS_CHANNELS_TITLE": "Disable or enable some channels?",
   "SETTINGS_CHANNELS_DESCRIPTION": "When enabled, if a user sends this command to listed channel, they will be able to use the command. When disabled if a user sends this command to a listed channel, the command wouldn't work.",
 
+  "SETTINGS_TYPES_TITLE": "How can this command be ran?",
+  "SETTINGS_TYPES_DESCRIPTION": "When prefix is enabled: a user can call this command by using {prefix}{command name}. When slash is enabled: a user can call this command by using /{command name}",
+
   "SETTINGS_DELETE_COMMAND_TITLE": "Delete command after bot reply?",
   "SETTINGS_DELETE_COMMAND_DESCRIPTION": "When enabled, when a user types out a command, their command message will be removed when the bot gives its reply. When disabled the command the user typed out will stay in chat.",
 
@@ -36,5 +39,5 @@
   "SETTINGS_DELETE_REPLY_SECONDS": "When enabled, when the bot reply's to a command, that reply will be deleted after some seconds. When disabled the bot reply will stay in chat.",
 
   "SETTINGS_EPHEMERAL_TITLE": "Send bot reply to user only?",
-  "SETTINGS_EPHEMERAL_DESCRIPTION": "When enabled, when a user types out a command, the bot reply will only be visible to the user that typed the command out. When disabled the bot reply will be visible for everyone. (This only works when the users uses it with a slash command, not with only the prefix)"
+  "SETTINGS_EPHEMERAL_DESCRIPTION": "When enabled, when a user types out a command, the bot reply will only be visible to the user that typed the command out. When disabled the bot reply will be visible for everyone. (This only works when the users uses it with a slash command, not with prefix) (also not works when delete reply is enabled)"
 }
