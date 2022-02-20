@@ -23,11 +23,13 @@
   "CHANNELS": "Kanalen",
   "SETTINGS_CHANNELS_TITLE": "Sommige kanalen in- of uitschakelen?",
   "SETTINGS_CHANNELS_DESCRIPTION": "Indien ingeschakeld, als een gebruiker deze opdracht naar het vermelde kanaal verzendt, kan hij de opdracht gebruiken. Indien uitgeschakeld, als een gebruiker deze opdracht naar een vermeld kanaal stuurt, zou de opdracht niet werken.",
+  "SETTINGS_TYPES_TITLE": "How can this command be ran?",
+  "SETTINGS_TYPES_DESCRIPTION": "When prefix is enabled: a user can call this command by using {prefix}{command name}. When slash is enabled: a user can call this command by using /{command name}",
   "SETTINGS_DELETE_COMMAND_TITLE": "Opdracht verwijderen na bot antwoord?",
   "SETTINGS_DELETE_COMMAND_DESCRIPTION": "Indien ingeschakeld, wanneer een gebruiker een opdracht typt, wordt zijn opdrachtbericht verwijderd wanneer de bot zijn antwoord geeft. Indien uitgeschakeld, blijft het opdrachtbericht dat de gebruiker heeft uitgetypt in de chat.",
   "SETTINGS_DELETE_REPLY_TITLE": "Bot antwoord verwijderen na hoeveel seconden?",
   "SETTINGS_DELETE_REPLY_DESCRIPTION": "Bot antwoord na enige tijd verwijderen?",
   "SETTINGS_DELETE_REPLY_SECONDS": "Indien ingeschakeld, wanneer de bot antwoordt op een commando, wordt dat antwoord na enkele seconden verwijderd. Indien uitgeschakeld, blijft het bot antwoord in de chat.",
   "SETTINGS_EPHEMERAL_TITLE": "Bot antwoord alleen naar gebruiker sturen?",
-  "SETTINGS_EPHEMERAL_DESCRIPTION": "Indien ingeschakeld, wanneer een gebruiker een opdracht typt, is het antwoord van de bot alleen zichtbaar voor de gebruiker die de opdracht heeft uitgetypt. Indien uitgeschakeld is het botantwoord voor iedereen zichtbaar. (Dit werkt alleen als de gebruikers het gebruiken met een slash-opdracht, niet alleen met het voorvoegsel (prefix))"
+  "SETTINGS_EPHEMERAL_DESCRIPTION": "When enabled, when a user types out a command, the bot reply will only be visible to the user that typed the command out. When disabled the bot reply will be visible for everyone. (This only works when the users uses it with a slash command, not with prefix) (also not works when delete reply is enabled)"
 }
